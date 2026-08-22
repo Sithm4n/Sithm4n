@@ -40,7 +40,7 @@ Research helps me understand the deeper questions. Building prototypes and produ
 
 ## Tools I Use
 
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Rust` · `Motoko` · `PostgreSQL` · `Playwright` · `Stellar` · `Internet Computer`
+`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `Firebase` · `Internet Computer`
 
 ## Contribution Trail
 
