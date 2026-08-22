@@ -12,9 +12,9 @@
   <a href="https://wildan-portfolio-six.vercel.app"><strong>View Portfolio</strong></a>
 </p> -->
 
-## Hey, I'm Wildan
+## Hey, I'm Naja
 
-I'm a **full-stack builder** based in Bandung, Indonesia. I work across **AI agents, Web3, and developer tools**, shaping products, leading teams, and building the software behind them.
+I'm a **full-stack builder** based in Malang, Indonesia. I work across **AI agents, and developer tools**, shaping products, leading teams, and building the software behind them.
 
 I enjoy taking projects from an early idea to a working release: defining the product, building the core system, testing the final flow, and often coordinating the team along the way.
 
@@ -22,7 +22,6 @@ I enjoy taking projects from an early idea to a working release: defining the pr
 
 - **Product & full-stack engineering:** from product direction and interface design to backend systems, integrations, deployment, and QA.
 - **AI products:** tool-using agents, purpose-built interfaces, and workflows that keep people in control.
-- **Web3 applications:** wallet intelligence, API payments, smart contracts, and on-chain product flows.
 - **Developer tools:** testing, reliability, and AI-assisted engineering workflows.
 
 ## Selected Work
@@ -47,8 +46,8 @@ Research helps me understand the deeper questions. Building prototypes and produ
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sithm4n/Sithm4n/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sithm4n/Sithm4n/output/github-contribution-grid-snake.svg">
     <img src="https://raw.githubusercontent.com/wildanniam/wildanniam/output/github-contribution-grid-snake.svg" alt="Animated snake moving through Wildan's GitHub contribution graph" width="100%">
   </picture>
 </p>
@@ -58,12 +57,7 @@ Research helps me understand the deeper questions. Building prototypes and produ
 <br>
 
 <!-- AUTO:ACTIVITY:START -->
-- Aug 20, 2026: pushed 1 commit to [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: pushed 1 commit to [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: merged pull request [#11](https://github.com/wildanniam/koderea/pull/11) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: closed issue [#12](https://github.com/wildanniam/koderea/issues/12) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: closed issue [#10](https://github.com/wildanniam/koderea/issues/10) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
-- Aug 19, 2026: opened issue [#12](https://github.com/wildanniam/koderea/issues/12) in [wildanniam/koderea](https://github.com/wildanniam/koderea).
+
 <!-- AUTO:ACTIVITY:END -->
 
 </details>
