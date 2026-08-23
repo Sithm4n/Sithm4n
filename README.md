@@ -1,10 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/W5fnM.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/W5fnM.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/W5fnM.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/W5fnM.svg">
-    <img src="./assets/hero/W5fnM.svg" alt="Naja Najwa Robbi" width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/builder-profile-v2-mobile-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/builder-profile-v2-mobile-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/builder-profile-v2-mobile-dark.svg">
+    <img src="./assets/hero/builder-profile-v2-mobile-dark.svg" alt="Naja Najwa Robbi" width="100%">
   </picture>
 </p>
 
